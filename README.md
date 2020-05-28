@@ -19,3 +19,7 @@ The next sentence.
 ### Options(List<Choice>)
 A resizeable list of choices. If a sentence has choices, the Text and Next Sentence 
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
