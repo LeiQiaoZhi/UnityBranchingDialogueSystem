@@ -14,4 +14,8 @@ A sentence is the building block of dialogues. Each sentence sciptable object ha
 a string variable representing the name of the speaker.(I am using a sciptable object named StringVariable to store the character name data, I will get to that later)
 #### Text(string)
 The actual text of the sentence.
-### Next Sentence
+### Next Sentence(Sentence)
+The next sentence. 
+### Options(List<Choice>)
+A resizeable list of choices. If a sentence has choices, the Text and Next Sentence 
+
