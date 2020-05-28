@@ -1,5 +1,7 @@
-# UnityBranchingDialogueSystem
+# Branching Dialogue System for Unity
 A **node based** branching dialogue system created by me for Unity,  which can visualise the dialogues in **graphs**. 
+![alt text][screenshot_graph]
+
 
 ## Structure
 two custom scriptable objects are created for dialogues, which are dialogue and sentence
@@ -19,7 +21,7 @@ The next sentence.
 ### Options(List<Choice>)
 A resizeable list of choices. If a sentence has choices, the Text and Next Sentence 
 
-Reference-style: 
-![alt text][logo]
+ 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+[screenshot_graph]: https://github.com/LeiQiaoZhi/UnityBranchingDialogueSystem/blob/master/Screenshot%202020-05-28%2020.03.38.png
