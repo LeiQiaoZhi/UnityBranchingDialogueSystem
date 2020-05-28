@@ -21,7 +21,8 @@ The actual text of the sentence.
 The next sentence. 
 ### Options(List<Choice>)
 A resizeable list of choices. If a sentence has choices, the Text and Next Sentence 
-<img src="https://github.com/LeiQiaoZhi/UnityBranchingDialogueSystem/blob/master/Screenshot%202020-05-28%2022.59.49.png" alt="Italian Trulli">
+ 
+<img src="https://github.com/LeiQiaoZhi/UnityBranchingDialogueSystem/blob/master/Screenshot%202020-05-28%2022.59.49.png" alt="Italian Trulli" width="30%" height="30%">
  
 
 
